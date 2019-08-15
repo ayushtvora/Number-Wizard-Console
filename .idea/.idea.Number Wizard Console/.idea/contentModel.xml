@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ayush Vora\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ayush Vora\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Number Wizard Console.-1047472791.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\Unity 2D\Number_Wizard_Console\Number Wizard Console" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="NumberWizard.cs" t="Include" />
+      </e>
+      <e p="Number Wizard Console.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
